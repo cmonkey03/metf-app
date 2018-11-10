@@ -1,0 +1,1 @@
+const myapikey = 10
